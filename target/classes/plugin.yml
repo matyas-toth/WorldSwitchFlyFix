@@ -1,0 +1,6 @@
+name: OneBlockFlyFix
+version: '1.0-SNAPSHOT'
+main: hu.reigdev.oneblockflyfix.OneBlockFlyFix
+api-version: 1.19
+author: Reigniteh
+description: Fly toggle fix for MineZone.HU
